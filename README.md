@@ -15,7 +15,7 @@ The clustering is done using k-means clustering. The optimal number of clusters 
 
 The clusters are visualized using two components in the code, but the centroids of the clusters are as follows:
 
-| Age | Annual income | Spending_score |
+| Age (years) | Annual income (k$) | Spending_score (0-100) |
 |-------|-------|-------|
 | 47.63 | 27.32 | 19.00 |
 | 56.33 | 54.27 | 49.07 |
